@@ -1,0 +1,118 @@
+{
+  "all_courses": [
+    {
+      "name": "IES",
+      "courses": [
+        {
+          "name": "introducción a python",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a javascript",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a html",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a css",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a java",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a c++",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a c#",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a php",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a ruby",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a sql",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a mysql",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a postgresql",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a mongodb",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a nodejs",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a react",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a angular",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a vue",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a django",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a flask",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a laravel",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a symfony",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a spring",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a ruby on rails",
+          "category": "technology"
+        },
+        {
+          "name": "introducción a .net",
+          "category": "technology"
+        }
+      ]
+    },
+    {
+      "name": "LOLA formaciones",
+      "courses": [
+        {
+          "name": "finanzas para mercados emergentes",
+          "category": "finance"
+        },
+        {
+          "name": "Ley de pareto aplicada a las acciones",
+          "category": "finance"
+        }
+      ]
+    }
+  ]
+}
